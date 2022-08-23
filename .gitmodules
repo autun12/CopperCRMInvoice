@@ -1,0 +1,12 @@
+[submodule "CopperCRMRenderer/vendor/GLFW"]
+	path = CopperCRMRenderer/vendor/GLFW
+	url = https://github.com/autun12/glfw
+[submodule "CopperCRMRenderer/vendor/glm"]
+	path = CopperCRMRenderer/vendor/glm
+	url = https://github.com/g-truc/glm
+[submodule "CopperCRMRenderer/vendor/imgui"]
+	path = CopperCRMRenderer/vendor/imgui
+	url = https://github.com/autun12/imgui
+[submodule "CopperCRMRenderer/vendor/spdlog"]
+	path = CopperCRMRenderer/vendor/spdlog
+	url = https://github.com/gabime/spdlog

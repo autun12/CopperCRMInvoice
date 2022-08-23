@@ -1,3 +1,10 @@
+.vscode/**
+.cache/**
+bin/**
+bin-int/**
+*.log
+vendor/premake/bin/
+
 # Prerequisites
 *.d
 
@@ -30,3 +37,6 @@
 *.exe
 *.out
 *.app
+
+.python-version
+compile_commands.json
